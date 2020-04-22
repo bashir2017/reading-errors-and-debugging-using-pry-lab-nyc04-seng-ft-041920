@@ -1,4 +1,3 @@
-# don't forget to add: require 'pry'
 require 'pry'
 
 def generate_star_date
