@@ -4,7 +4,7 @@ require 'pry'
 def snake_it_up(string)
   if string[0] == "s"
     "ssssssssss" + string
-    pry.bind()
+    binding.pry
   else
     string
   end
